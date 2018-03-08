@@ -1,6 +1,6 @@
 {
   "name": "BMI-Challenge",
-  "app_id": "",
+  "app_id": "a3cca305",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
